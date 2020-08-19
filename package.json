@@ -1,24 +1,26 @@
 {
-  "name": "theabbie",
-  "version": "1.1.1",
-  "description": "Hello World I am Abhishek Chaudhary, A pseudo-introvert, A web developer and a maker",
+  "name": "generic-static-site-generator",
+  "version": "1.0.0",
+  "description": "A Generic Static Site Generator",
   "main": "index.js",
   "scripts": {
     "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theabbie/theabbie.git"
+    "url": "git+https://github.com/theabbie/Generic-Static-Site-Generator.git"
   },
   "keywords": [
     "theabbie",
+    "generic-static-site-generator",
+    "ssg",
     "abhishek",
     "chaudhary"
   ],
   "author": "abhishek chaudhary",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/theabbie/theabbie/issues"
+    "url": "https://github.com/theabbie/Generic-Static-Site-Generator/issues"
   },
-  "homepage": "https://github.com/theabbie/theabbie#readme"
+  "homepage": "https://github.com/theabbie/Generic-Static-Site-Generator#readme"
 }
