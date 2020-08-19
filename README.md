@@ -1,5 +1,5 @@
-# Generic Static Site Generator
+![Generic Static Site Generator](https://theabbie.github.io/files/banner.png)
 
-<p align='center'><img src="https://theabbie.github.io/files/logo.png" alt="TheAbbie" width="100" height="100"></p>
+# Generic Static Site Generator
 
 This is a Generic Static Site Generator, It is written in JavaScript, It can be used to create static websites
