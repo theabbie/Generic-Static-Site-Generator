@@ -9,6 +9,9 @@
   "scripts": {
     "test": ""
   },
+  "bin": {
+    "gssg": "bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/theabbie/Generic-Static-Site-Generator.git"
