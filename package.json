@@ -3,9 +3,6 @@
   "version": "1.0.2",
   "description": "A Generic Static Site Generator",
   "main": "index.js",
-  "publishConfig": {
-     "registry": "https://npm.pkg.github.com/"
-   },
   "scripts": {
     "test": ""
   },
