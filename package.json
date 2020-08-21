@@ -1,6 +1,6 @@
 {
   "name": "generic-static-site-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Generic Static Site Generator",
   "main": "index.js",
   "scripts": {
