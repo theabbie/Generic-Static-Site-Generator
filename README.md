@@ -33,7 +33,7 @@ Contact me anywhere, You can easily find me, Mail is preferable for formal commu
 
 ### Installation
 
-You have to install `GSSG` from NPM
+You have to install `GSSG` from [NPM](https://www.npmjs.com/package/generic-static-site-generator)
 
 ```sh
 npm install -g generic-static-site-generator
