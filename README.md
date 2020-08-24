@@ -8,7 +8,7 @@ This is a Generic Static Site Generator, It is written in JavaScript, It can be 
 
 It is an organised and completely customisable Static Site Generator, It treats webpages as objects which can be evaluated.
 
-This can be used to created all kinds of webpages.
+This can be used to created all kinds of websites.
 
 ## Usage
 
@@ -49,7 +49,7 @@ Currently, I am the only one who can be credited for this, But, I was inspired b
 
 ## Contact
 
-![This](https://theabbie.github.io) is the gateway to my entire internet presence. Find me there. If that doesn't let you know enough about me,. Then I am afraid to say, Nothing can
+[This](https://theabbie.github.io) is the gateway to my entire internet presence. Find me there. If that doesn't let you know enough about me,. Then I am afraid to say, Nothing can
 
 ## License
 
