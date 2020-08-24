@@ -1,6 +1,7 @@
 # Generic Static Site Generator
 
 [![Join the chat at https://gitter.im/Generic-Static-Site-Generator/community](https://badges.gitter.im/Generic-Static-Site-Generator/community.svg)](https://gitter.im/Generic-Static-Site-Generator/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Rate on Openbase](https://badges.openbase.io/js/rating/generic-static-site-generator.svg)](https://openbase.io/js/generic-static-site-generator?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
 
 ![Generic Static Site Generator](https://theabbie.github.io/files/logo.png)
 
