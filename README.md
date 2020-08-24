@@ -1,5 +1,7 @@
 # Generic Static Site Generator
 
+[![Join the chat at https://gitter.im/Generic-Static-Site-Generator/community](https://badges.gitter.im/Generic-Static-Site-Generator/community.svg)](https://gitter.im/Generic-Static-Site-Generator/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Generic Static Site Generator](https://theabbie.github.io/files/logo.png)
 
 ## Introduction
