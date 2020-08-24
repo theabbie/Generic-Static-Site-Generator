@@ -49,7 +49,7 @@ Currently, I am the only one who can be credited for this, But, I was inspired b
 
 ## Contact
 
-[This](https://theabbie.github.io) is the gateway to my entire internet presence. Find me there. If that doesn't let you know enough about me,. Then I am afraid to say, Nothing can
+[This](https://theabbie.github.io) is the gateway to my entire internet presence. Find me there. If that doesn't let you know enough about me, Then I am afraid to say, Nothing can
 
 ## License
 
