@@ -1,7 +1,3 @@
-function run(...args) {
+module.exports = function(...args) {
   console.log(...args);
 }
-
-module.exports = {
-  run: run
-};

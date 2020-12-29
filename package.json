@@ -1,13 +1,13 @@
 {
   "name": "generic-static-site-generator",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Generic Static Site Generator",
   "main": "index.js",
   "scripts": {
     "test": ""
   },
   "bin": {
-    "gssg": "bin/index.js"
+    "gssg": "./bin/cli.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/theabbie/Generic-Static-Site-Generator/issues"
   },
-  "homepage": "https://github.com/theabbie/Generic-Static-Site-Generator#readme"
+  "homepage": "https://github.com/theabbie/Generic-Static-Site-Generator#readme",
+  "dependencies": {}
 }
